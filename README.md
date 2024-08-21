@@ -56,6 +56,8 @@ This repository contains the Kubernetes configuration files to deploy a MongoDB 
 - Defining resource requests and limits for better resource management.
 - Implementing anti-affinity rules to ensure MongoDB replicas are distributed across nodes for higher availability.
 
-## License
 
-This project is licensed under the MIT License.
+
+## Author
+
+- **Shiv Kumar Rathore** - [GitHub](https://github.com/SHIVANIUM-GIT)
